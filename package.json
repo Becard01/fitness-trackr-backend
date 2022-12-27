@@ -10,14 +10,11 @@
     "start": "node server.js",
     "test": "jest --runInBand",
     "test:watch": "jest --runInBand --watchAll",
-
     "test:watch:api": "jest --runInBand --watchAll api",
     "test:watch:db": "jest --runInBand --watchAll db"
-
   },
   "repository": {
     "type": "git"
-   
   },
   "keywords": [
     "node",
